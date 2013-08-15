@@ -1,0 +1,3 @@
+HackTrackerEmber.Router.map(function () {
+  
+});
